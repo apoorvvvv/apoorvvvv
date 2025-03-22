@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apoorvvvv
 - 👀 I’m interested in innovation
-- 🌱 I’m currently how AI works
+- 🌱 I’m currently working on how Quantum computers and AI works.
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me - email - er.apoorvsingh@gmail.com
 
